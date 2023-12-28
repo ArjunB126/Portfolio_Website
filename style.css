@@ -32,4 +32,18 @@
     align-items: center;
 }
 
+.img{
+    width: 100px;
+}
 
+.nav-items{
+    display: flex;
+    gap: 2rem;
+    padding: 0 4em;
+}
+
+.nav-items div{
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
