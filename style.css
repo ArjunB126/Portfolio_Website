@@ -88,3 +88,14 @@ a{
     justify-content: center;
     gap: 2rem;
 }
+
+.hero_section_heading{
+
+    font-size: 35px;
+    color: #132043;  /* Text Color  */
+    font-weight: bolder;
+}
+.role{
+    color:#CE5A67 ;
+    font-weight: bold;
+}
