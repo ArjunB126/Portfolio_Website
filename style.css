@@ -47,3 +47,12 @@
     font-weight: 500;
     cursor: pointer;
 }
+
+.nav-items div a{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
