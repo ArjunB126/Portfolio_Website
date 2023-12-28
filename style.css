@@ -225,3 +225,10 @@ a{
         transform: rotateY(360deg) translateY(0px);
     }
 }
+
+.icon-circle{
+    z-index: 9;
+    left: 0;
+    bottom: 0;
+    animation: shakeEffect 6s linear  infinite;
+}
