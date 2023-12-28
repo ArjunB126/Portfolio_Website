@@ -13,3 +13,23 @@
     overflow-y: auto;
     overflow-x: hidden;
 }
+
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+.logo-container{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+
+
