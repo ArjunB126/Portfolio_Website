@@ -56,3 +56,13 @@ a{
     text-decoration: none;
 }
 
+.nav-items div:hover{
+    font-weight: bolder;
+    transition: 1s;
+    
+}
+
+
+.nav-items div a:hover{
+    color:#e84949;
+}
