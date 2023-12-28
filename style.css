@@ -166,3 +166,17 @@ a{
 .user_image img{
     z-index: -9;
 }
+
+@keyframes scaleImage {
+    0% {
+       filter: grayscale(1);
+       transform: scaleX(1); 
+    }
+    50% {
+        transform: scale(1.1);
+        filter: grayscale(1);
+        box-shadow: 3px 3px 3px black;
+
+    }
+ 
+}
