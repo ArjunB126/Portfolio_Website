@@ -183,3 +183,12 @@ a{
         filter: grayscale(0);
     }
 }
+
+.icon-dots{
+    z-index: 9;
+    bottom: -1rem;
+    right: 0;
+    animation-name: dotsAnimation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
