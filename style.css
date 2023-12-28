@@ -66,3 +66,16 @@ a{
 .nav-items div a:hover{
     color:#e84949;
 }
+
+/* Hero Section  */
+.hero_section{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+    margin: 4rem 9%;
+    padding: 0 1rem;
+    padding-bottom: 8rem;
+    
+}
