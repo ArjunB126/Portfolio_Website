@@ -134,3 +134,23 @@ a{
     transform-origin: left;
     transition: all 0.8s;
 }
+
+.btn:hover::before {
+    transform: scaleX(1);
+  }
+  
+  .btn:hover {
+    border: solid 3px #e84949;
+    color: black;
+}
+
+
+/* Right Section  */
+.hero_section_right{
+    position: relative;
+
+}
+
+.absolute{
+    position: absolute;
+}
