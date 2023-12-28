@@ -192,3 +192,10 @@ a{
     animation-duration: 5s;
     animation-iteration-count: infinite;
 }
+
+@keyframes dotsAnimation {
+    0%{
+        transform: translateY(0px);
+    }
+
+}
