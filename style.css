@@ -99,3 +99,9 @@ a{
     color:#CE5A67 ;
     font-weight: bold;
 }
+
+
+.hero_section_subheading{
+    font-size: 45px;
+    line-height: 45px;
+}
