@@ -232,3 +232,13 @@ a{
     bottom: 0;
     animation: shakeEffect 6s linear  infinite;
 }
+
+
+@keyframes shakeEffect {
+
+    50%{
+        left: 5%;
+        bottom: 10%;
+    }
+
+}
