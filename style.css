@@ -250,3 +250,12 @@ a{
     left: -0.3em;
     animation: zigzagAimation 5s ease-in infinite;
 }
+
+@keyframes zigzagAimation  {
+
+    50%{
+        left: 5%;
+        top: 2%;
+    }
+
+}
