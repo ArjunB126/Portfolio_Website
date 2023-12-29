@@ -380,3 +380,19 @@ a{
     gap: 1em;
     transition: all 0.4s;
 }
+
+
+.project_content_left{
+    left: 10%;
+}
+
+.project_content_right{
+    left: 30%;
+}
+
+.project_skills_container{
+    width: 60%;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
