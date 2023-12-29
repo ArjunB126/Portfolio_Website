@@ -341,3 +341,7 @@ a{
     transition: all 0.4s;
     z-index: 1;
 }
+.project_card:hover::before{
+    transform: scaleX(1);
+}
+
