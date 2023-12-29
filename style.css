@@ -354,3 +354,12 @@ a{
     display: none;
     
 }
+
+.project_card:hover .project_number{
+    display: block;
+}
+
+.project_number_right{
+    right: -40px;
+    top: -45px;
+}
