@@ -266,3 +266,12 @@ a{
     left: 50%;
     animation: shakeEffectplus 5s ease-in infinite;
 }
+
+@keyframes shakeEffectplus {
+
+    50%{
+        left: 48%;
+        top: 3%;
+    }
+
+}
