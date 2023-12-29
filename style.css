@@ -259,3 +259,10 @@ a{
     }
 
 }
+
+.icon-plus{
+    z-index: 9;
+    top: -0.8rem;
+    left: 50%;
+    animation: shakeEffectplus 5s ease-in infinite;
+}
