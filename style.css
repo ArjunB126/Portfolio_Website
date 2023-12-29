@@ -363,3 +363,20 @@ a{
     right: -40px;
     top: -45px;
 }
+
+.project_number_left{
+    left: -40px;
+    top: -45px;
+}
+
+.project_content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 2em;
+    bottom: 20%;
+    z-index: 5;
+    gap: 1em;
+    transition: all 0.4s;
+}
