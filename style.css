@@ -569,3 +569,10 @@ a{
     transform: translate(-50%,-50%  );
     animation: blobAnimate 3s linear infinite;
 }
+@keyframes blobAnimate {
+    50%{
+        top: 54%;
+        left: 56%;
+    }
+    
+}
