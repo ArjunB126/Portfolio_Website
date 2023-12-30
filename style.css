@@ -550,3 +550,13 @@ a{
     justify-content: center;
 
 }
+.skill_fade_text{
+    position: absolute;
+    font-size: 15em;
+    color:rgb(231, 231, 231) ;
+    font-style: bold;
+    bottom: -34.5%;
+    right: -20%;
+    user-select: none;
+    overflow-y: hidden;
+}
