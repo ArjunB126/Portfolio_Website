@@ -507,7 +507,13 @@ a{
     #project4{
         margin-left: 0;
     }
+    .project_skills_container{
+        width: 100%;
+    }
+    .project_skill{
+        width: 35px;
 
+    }
  
 
 
