@@ -514,6 +514,14 @@ a{
         width: 35px;
 
     }
+
+    .project_card:hover  .project_number{
+        display: none;
+    }
+
+    .project_card:hover .project_content{
+        scale: 0.55;
+    }
  
 
 
