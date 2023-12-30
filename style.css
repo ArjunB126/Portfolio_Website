@@ -414,3 +414,12 @@ a{
 .project_subheading_right{
     width: 100%;
 }
+.btn_grp{
+    display: flex;
+    gap: 0.9em;
+    align-items: center;
+}
+
+.btn-project:hover{
+   border: none; 
+}
