@@ -423,3 +423,15 @@ a{
 .btn-project:hover{
    border: none; 
 }
+
+.icon{
+    cursor: pointer;
+    color: white;
+    font-size: 35px;
+    transition: all 0.4s;
+}
+
+.icon:hover{
+    color:#e84949;
+    
+}
