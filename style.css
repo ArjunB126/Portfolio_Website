@@ -435,3 +435,16 @@ a{
     color:#e84949;
     
 }
+
+.project_card:hover .project_content{
+    transform: scale(1.1);
+}
+
+#project1{
+    background-image: url("Images/projects/Project1.png");
+}
+
+#project2{
+    margin-left: 120px;
+    background-image: url("Images/projects/Project2.png");
+}
