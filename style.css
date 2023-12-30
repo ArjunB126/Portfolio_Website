@@ -448,3 +448,12 @@ a{
     margin-left: 120px;
     background-image: url("Images/projects/Project2.png");
 }
+
+#project3{
+    background-image: url("Images/projects/Project3.png");
+}
+
+#project4{
+    margin-left: 120px;
+    background-image: url("Images/projects/Project4.png");
+}
