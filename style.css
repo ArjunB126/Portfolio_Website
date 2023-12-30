@@ -405,3 +405,12 @@ a{
     font-weight: bold;
     line-height: 3rem;
 }
+.project_subheading{
+    width: 70%;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.project_subheading_right{
+    width: 100%;
+}
