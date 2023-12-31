@@ -576,3 +576,9 @@ a{
     }
     
 }
+
+.skills_logo{
+    width: 110px;
+    height: 100px;
+    transition: all 0.5s;
+}
