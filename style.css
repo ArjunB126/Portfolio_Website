@@ -665,3 +665,8 @@ a{
     height: auto;
     padding-top: 1rem;
 }
+#submit-btn{
+    border: none;
+    font-size: 1.4rem;
+    margin: 1rem 0; 
+}
