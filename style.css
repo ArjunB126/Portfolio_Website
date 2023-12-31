@@ -582,3 +582,8 @@ a{
     height: 100px;
     transition: all 0.5s;
 }
+
+.skills_logo:hover{
+    cursor: pointer;
+    
+}
