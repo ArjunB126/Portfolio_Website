@@ -725,3 +725,7 @@ footer{
     gap: 1rem;
     display: flex;
 }
+
+.icon-wrapper:hover{
+    color: #e84949;
+}
