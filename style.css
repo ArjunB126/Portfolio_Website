@@ -660,3 +660,8 @@ a{
     border: none;
     margin-top: 27px;
 }
+
+.form_fieldtextarea{
+    height: auto;
+    padding-top: 1rem;
+}
