@@ -695,3 +695,12 @@ footer{
     justify-content: space-between;
     align-items: center;
 }
+
+.footer-faded-text{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color:#535c87;
+    user-select: none;
+    font-size: 3em;
+}
