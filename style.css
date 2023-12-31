@@ -585,5 +585,5 @@ a{
 
 .skills_logo:hover{
     cursor: pointer;
-    
+    transform: scale(1.2);
 }
