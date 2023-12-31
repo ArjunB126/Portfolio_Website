@@ -687,3 +687,9 @@ footer{
     background-color: #343d68;
     padding: 5rem;
 }
+
+.footer-wrapper{
+    display: flex;
+    gap: 1rem;
+ 
+}
