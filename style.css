@@ -720,3 +720,8 @@ footer{
 .link-wrapper div a:hover{
     color: #e84949;
  }
+
+ .icon-wrapper{
+    gap: 1rem;
+    display: flex;
+}
