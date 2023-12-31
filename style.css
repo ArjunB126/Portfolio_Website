@@ -691,5 +691,7 @@ footer{
 .footer-wrapper{
     display: flex;
     gap: 1rem;
- 
+    padding: 1.2rem;
+    justify-content: space-between;
+    align-items: center;
 }
