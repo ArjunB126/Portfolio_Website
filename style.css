@@ -610,3 +610,9 @@ a{
 .skill_subheading  p {
     margin: 15px 0;
 }
+
+/* Contact Section  */
+.contactus_form_container{
+    width: 100%;
+    background-color: rgb(231, 231, 231);
+}
