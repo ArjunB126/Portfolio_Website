@@ -629,3 +629,11 @@ a{
     color:#343d68;
     text-transform: capitalize ;
 }
+
+.contactus_form_container{
+    display: flex;
+    margin-top: 25px;
+    align-items: center;
+    justify-content: center;
+
+}
