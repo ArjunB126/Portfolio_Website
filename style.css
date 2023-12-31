@@ -587,3 +587,10 @@ a{
     cursor: pointer;
     transform: scale(1.2);
 }
+
+.skill_heading{
+    color: #e84949;
+    font-size:50px;
+   
+
+}
