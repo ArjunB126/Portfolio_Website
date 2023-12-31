@@ -591,6 +591,7 @@ a{
 .skill_heading{
     color: #e84949;
     font-size:50px;
-   
+    font-style: bolder;
+    line-height: 50px;
 
 }
