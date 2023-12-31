@@ -606,3 +606,7 @@ a{
     text-align: justify;
    
 }
+
+.skill_subheading  p {
+    margin: 15px 0;
+}
