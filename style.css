@@ -623,3 +623,9 @@ a{
     color: #e84949;
     padding-top: 2rem;
 }
+
+.contact_us_subheading{
+    font-size: 2rem;
+    color:#343d68;
+    text-transform: capitalize ;
+}
